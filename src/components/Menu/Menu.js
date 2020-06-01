@@ -4,7 +4,7 @@ import Link from '../Link';
 
 function Menu() {
 	return(
-  	<div className="menu">
+  	<div>
       <Link />
       <Link />
       <Link active />
